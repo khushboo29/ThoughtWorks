@@ -1,6 +1,5 @@
 import requests
 import json
-import datetime
 
 class RestTemplate:
     host_url = 'https://http-hunt.thoughtworks-labs.net/'
